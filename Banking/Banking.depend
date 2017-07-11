@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1464605025 source:c:\users\shubham mittal\documents\banking\banking\main.c
+	"header.h"
+
+1464605277 c:\users\shubham mittal\documents\banking\banking\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1464607504 source:c:\users\shubham mittal\documents\banking\banking\s1.c
+	"header.h"
+
+1464605350 source:c:\users\shubham mittal\documents\banking\banking\user.c
+	"header.h"
+
+1464607293 source:c:\users\shubham mittal\documents\banking\banking\header.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
